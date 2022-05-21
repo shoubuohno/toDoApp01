@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">TodoApp</string>
+    <string name="app_name">Todoアプリ</string>
+    <string name="tv_mainTitle">目的を設定してください。</string>
+    <string name="tv_timelimit">期限</string>
+    <string name="bt_create">設定する</string>
 </resources>
